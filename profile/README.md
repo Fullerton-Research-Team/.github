@@ -1,5 +1,3 @@
-# Fullerton Research Group
+# Game Theoretic Legal Alignment (GTLA) Team
 
-The organization page for research projects and GitHub repos led by Elijah Fullerton and independent collaborator Christopher Denq.
-
-Elijah Fullerton is a PhD candidate at Princeton University where he is advised by Mark Braverman and Aleksandra Korolova.
+The organization page for research projects and GitHub repos led by Elijah Fullerton and Christopher Denq, in collaboration with Aleksandra Korolova and Mark Braverman.
